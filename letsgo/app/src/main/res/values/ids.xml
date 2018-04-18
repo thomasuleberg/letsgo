@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input_email" type="id" />
+    <item name="input_password" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="frontpage_main_view" type="id" />
+    <item name="frontpage_error_view" type="id" />
+    <item name="frontpage_loading_view" type="id" />
+</resources>
